@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name="com.lyon.romate.AIDLRemoteService"></service>
+
     </application>
 
 </manifest>
