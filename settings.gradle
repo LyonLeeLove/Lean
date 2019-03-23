@@ -1,1 +1,1 @@
-include ':app', ':InterpreterPattern'
+include ':app', ':InterpreterPattern', ':search'
