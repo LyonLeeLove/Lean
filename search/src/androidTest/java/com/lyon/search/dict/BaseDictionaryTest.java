@@ -24,7 +24,7 @@ import org.junit.Test;
  * @version V0.0.1                           <br>
  */
 public class BaseDictionaryTest extends BaseSearchTest {
-    private static final String TAG = "NORMAL BENCHMARK";
+    protected static final String TAG = "NORMAL BENCHMARK";
     private static final String DATABASE_NAME = "dictionary_test.db";
     protected SQLiteDatabase database;
 
